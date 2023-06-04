@@ -1,0 +1,36 @@
+
+.Divproduct
+{
+    width: 60%;
+    height: 600px;
+    background-color: white;
+    border-radius: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    
+    
+}
+.Productleft
+{
+    width: 40%;
+    height:600px;
+    background-repeat: no-repeat;
+  padding-left: auto;
+   float: left;
+   size: cover;
+}
+.Rightdiv
+{
+    width: 60%;
+    height: 600px;
+   padding-left: 10px;
+   padding-right: 10px;
+    color: white;
+    float: right;
+    
+}
+
+
+
+

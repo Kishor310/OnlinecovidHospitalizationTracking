@@ -1,0 +1,86 @@
+.well
+{
+    height: 120px;
+    margin-bottom:0px;
+    background-color: #2C498D;
+
+    
+}
+
+.jumbotron
+            {
+                width: 40%;
+                margin: auto;
+                margin-top: 50px;
+                background-color: white;
+                box-shadow: 5px 5px 10px 10px #00000075;
+                padding: 20px;
+               
+               
+            }
+           
+            body
+            {
+              background-color:white; 
+            }
+            label
+            {
+                font-family: bookmanold;
+            }
+            input[type="text"],[type="email"],[type="password"],[type="file"],#select
+            {
+                
+                 
+            }
+            input[type="submit"]
+            {
+                border: none;
+                color: white;
+                font-family: timesnewroman;
+                text-shadow: 2px 2px black;
+            }
+            
+            /*project title*/
+            
+            .title
+            {
+               
+                font-family:bookman Old Style;
+                color:white;
+                text-shadow: 2px 2px black;
+                
+            }
+            
+            
+            
+          /*  --navbar--*/
+          
+          ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #DBE3F8;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #566573;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #2C498D;
+  color:white;
+  
+}
+
+.active {
+  background-color: #DBE3F8;
+}
